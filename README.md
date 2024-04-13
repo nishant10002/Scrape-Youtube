@@ -10,4 +10,8 @@ In the first half of this project I aim to compare different youtube channels. I
 ![Views_graph](https://github.com/nishant10002/Scrape-Youtube/assets/133675507/a6aa272f-35bb-4190-a03f-321071652979)
 ![videos_graph](https://github.com/nishant10002/Scrape-Youtube/assets/133675507/01c97f1d-312a-4bc4-85d0-83c9db95e8d3)
 
+In the second half of this project I aim to build a logic to extract video details from a particular channel (Veritasium in this case). I shall extract details such as video title, total views for each video, total number of likes and comments each video has gotten. I will extract these details for all of the videos posted by Veritasium. I will then analyze this data by loading it into a pandas dataframe. Finally, I will create some simple visualization using Seaborn and Matplotlib python libraries to make data more understandable.
+![Top_10](https://github.com/nishant10002/Scrape-Youtube/assets/133675507/24b4aff5-87c6-4279-aef3-73c8c60be261)
+![videos_per_month](https://github.com/nishant10002/Scrape-Youtube/assets/133675507/45636cd5-4e16-434b-bb9b-82b0d0f521b9)
 
+I have also created a function to transfer all the video data into a csv file. (Also uploaded)
